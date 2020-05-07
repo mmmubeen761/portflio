@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+img{
+    width: 400px;
+ 
+}
+h1{
+    color: rgb(126, 126, 243);
+}
+div{
+    background-color: rgb(113, 113, 255);
+    padding: 20px;
+    color: rgb(255, 255, 255);
+
+}
+/* button{
+    
+    display: flex;
+    margin: 20px;
+} */
